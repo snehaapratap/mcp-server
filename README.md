@@ -88,7 +88,7 @@ curl -X PUT "http://127.0.0.1:8000/github/star-repo?owner=your-username&repo=you
 ---
 
 ## 🎥 Slides
-📌 **[View the Slides](https://your-slides-link.com)**  
+📌 **[View the Slides](https://gamma.app/docs/GitHub-MCP-Server-with-FastAPI-m9vyprwqynhaln7)**  
 
 ---
 
