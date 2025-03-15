@@ -117,7 +117,7 @@ Want to improve this project? Feel free to open a **pull request** or file an **
 
 ## 👨‍💻 Author
 🔹 **Sneha P Pratap**  
-🔹 GitHub: [@your-username](https://github.com/snehaapratap)  
-🔹 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sneha-prem-pratap/)  
+🔹 GitHub: [@snehaapratap](https://github.com/snehaapratap)  
+🔹 LinkedIn: [Sneha Prem Pratap](https://www.linkedin.com/in/sneha-prem-pratap/)  
 
 ---
