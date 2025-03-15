@@ -1,10 +1,4 @@
-Sure! Here's a **well-structured README.md** for your **GitHub MCP Server** using FastAPI. It includes all the necessary sections, a setup guide, API documentation, and a demo link placeholder.
 
----
-
-### 📌 **README.md** (For Your GitHub MCP Server)
-
-```md
 # 🚀 GitHub MCP Server - FastAPI Implementation
 
 ## 🌟 Overview
@@ -25,15 +19,14 @@ This project implements a **Model Context Protocol (MCP) server** using **FastAP
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-username/github-mcp-server.git
-cd github-mcp-server
+git clone https://github.com/snehaapratap/mcp-server.git
+cd mcp-server
 ```
 
 ### **2️⃣ Create & Activate a Virtual Environment**
 ```sh
 python3 -m venv venv
-source venv/bin/activate  # macOS/Linux
-venv\Scripts\activate      # Windows
+source venv/bin/activate  
 ```
 
 ### **3️⃣ Install Dependencies**
@@ -94,8 +87,7 @@ curl -X PUT "http://127.0.0.1:8000/github/star-repo?owner=your-username&repo=you
 
 ---
 
-## 🎥 Demo Video / Slides
-📌 **[Watch the Demo Here](https://your-demo-link.com)**  
+## 🎥 Slides
 📌 **[View the Slides](https://your-slides-link.com)**  
 
 ---
@@ -123,29 +115,9 @@ Want to improve this project? Feel free to open a **pull request** or file an **
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-
 ## 👨‍💻 Author
-🔹 **Your Name**  
-🔹 GitHub: [@your-username](https://github.com/your-username)  
-🔹 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-```
+🔹 **Sneha P Pratap**  
+🔹 GitHub: [@your-username](https://github.com/snehaapratap)  
+🔹 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sneha-prem-pratap/)  
 
 ---
-
-### 🔥 **Why This README is Strong**
-✔ **Clear project description**  
-✔ **Step-by-step installation guide**  
-✔ **API documentation in tabular format**  
-✔ **cURL examples for testing**  
-✔ **Error handling and future plans**  
-✔ **Demo video & slides section**  
-
-This README makes your project **stand out** and **communicates well** with evaluators. 🚀  
-
----
-
-### **💡 Need help adding anything else? Let me know!** 🚀
